@@ -12,4 +12,4 @@
   puts "Iteration #{i}" 
 end
 
-#50.times {|i| puts "iteration #{i}"} 
+50.times {|i| puts "iteration #{i}"} 
